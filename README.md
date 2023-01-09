@@ -10,6 +10,8 @@ Console application that analyzes all the files in the directory and merges them
 * Directory path
   * Has to be an absolute path to an existing directory.
   * Example: **D:/Steam/steamapps/common/dota 2 beta**
+* Files in directory
+  * The application only works with .txt files
 
 
 * Requirements in the files
